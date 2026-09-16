@@ -451,8 +451,8 @@ copies or substantial portions of the Software.
 ## 📞 Contact & Support
 
 - **Author**: MD EAFTEKHIRUL ISLAM
-- **Project Link**: [https://github.com/YOUR_USERNAME/gui-expense-tracker](https://github.com/YOUR_USERNAME/gui-expense-tracker)
-- **Issues**: [Report bugs or request features](https://github.com/YOUR_USERNAME/gui-expense-tracker/issues)
+- **Project Link**: [https://github.com/eafte/gui-expense-tracker](https://github.com/eafte/gui-expense-tracker)
+- **Issues**: [Report bugs or request features](https://github.com/eafte/gui-expense-tracker/issues)
 
 ---
 
@@ -470,6 +470,6 @@ copies or substantial portions of the Software.
 
 ⭐ **If you find this useful, please star the repository!**
 
-[Report Bug](https://github.com/YOUR_USERNAME/gui-expense-tracker/issues) · [Request Feature](https://github.com/YOUR_USERNAME/gui-expense-tracker/issues) · [View Documentation](DOCUMENTATION_INDEX.md)
+[Report Bug](https://github.com/eafte/gui-expense-tracker/issues) · [Request Feature](https://github.com/eafte/gui-expense-tracker/issues) · [View Documentation](DOCUMENTATION_INDEX.md)
 
 </div>
