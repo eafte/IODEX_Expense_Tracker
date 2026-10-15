@@ -291,7 +291,7 @@ The executable will be created in the `dist/` directory.
 
 ### Build Configuration
 
-The [gui_expense_tracker.spec](gui_expense_tracker.spec) file includes:
+The [IODEX_Expense_Tracker.spec](IODEX_Expense_Tracker.spec) file includes:
 
 - Single-file executable configuration
 - Data file inclusion (icons, images)
@@ -428,7 +428,7 @@ copies or substantial portions of the Software.
 
 - Check existing [documentation](DOCUMENTATION_INDEX.md)
 - Review [test results](TEST_RESULTS.md)
-- Open an [issue](https://github.com/YOUR_USERNAME/gui-expense-tracker/issues)
+- Open an [issue](https://github.com/eafte/IODEX_Expense_Tracker/issues)
 - Read [troubleshooting guide](DEVELOPER_GUIDELINES.md#troubleshooting)
 
 ---
@@ -451,8 +451,8 @@ copies or substantial portions of the Software.
 ## 📞 Contact & Support
 
 - **Author**: MD EAFTEKHIRUL ISLAM
-- **Project Link**: [https://github.com/eafte/gui-expense-tracker](https://github.com/eafte/gui-expense-tracker)
-- **Issues**: [Report bugs or request features](https://github.com/eafte/gui-expense-tracker/issues)
+- **Project Link**: [https://github.com/eafte/gui-expense-tracker](https://github.com/eafte/IODEX_Expense_Tracker/gui-expense-tracker)
+- **Issues**: [Report bugs or request features](https://github.com/eafte/IODEX_Expense_Tracker/issues)
 
 ---
 
@@ -470,6 +470,6 @@ copies or substantial portions of the Software.
 
 ⭐ **If you find this useful, please star the repository!**
 
-[Report Bug](https://github.com/eafte/gui-expense-tracker/issues) · [Request Feature](https://github.com/eafte/gui-expense-tracker/issues) · [View Documentation](DOCUMENTATION_INDEX.md)
+[Report Bug](https://github.com/eafte/IODEX_Expense_Tracker/issues) · [Request Feature](https://github.com/eafte/IODEX_Expense_Tracker/issues) · [View Documentation](DOCUMENTATION_INDEX.md)
 
 </div>
